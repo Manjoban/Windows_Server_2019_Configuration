@@ -18,7 +18,7 @@ The folder includes step-by-step configurations and documentation for:
 - **Remote Desktop Services (RDS)**
 - **Group Policy Management (GPO)**
 
-### 🐧 Linux-Based Services (if included)
+### 🐧 Linux-Based Services 
 
 - **NGINX** – Web server setup
 - **Docker** – Containerization basics
